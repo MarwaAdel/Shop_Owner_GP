@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "327389594156",
+    "firebase_url": "https://forwork0.firebaseio.com",
+    "project_id": "firebase-forwork0",
+    "storage_bucket": "firebase-forwork0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327389594156:android:7517545c59e2b2f8",
+        "android_client_info": {
+          "package_name": "com.example.merna.shopxmall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327389594156-p009ifgce08g13s1nokpolk4kpj3n9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqP7rVLrw53a2YBt8sTxWtNdeP1q_Gsyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327389594156:android:d7d6355367a88186",
+        "android_client_info": {
+          "package_name": "com.example.marwaadel.shopownertablet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "327389594156-p009ifgce08g13s1nokpolk4kpj3n9j5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqP7rVLrw53a2YBt8sTxWtNdeP1q_Gsyk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

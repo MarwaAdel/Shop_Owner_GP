@@ -1,0 +1,19 @@
+<android.support.design.widget.CoordinatorLayout
+android:layout_width="match_parent"
+android:layout_height="match_parent"
+xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+<include
+    android:id="@+id/content_left"
+    layout="@layout/activity_show_offer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+<include
+    android:id="@+id/content_right"
+    layout="@layout/activity_detail"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" />
+
+</android.support.design.widget.CoordinatorLayout>
